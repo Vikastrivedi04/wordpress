@@ -302,3 +302,16 @@ else :
     echo 'No posts found';
 endif;
 ?>
+
+
+
+
+
+
+Clone website setps
+1.Html>var>www ke under jai ty git open krvanu 
+2. Git open kri website clone krvani gitlab ma apni website hase ty thik close website uper click kri ne link copy kri ne jy git open hatu ty 
+     Git clone <pasetURL>
+3. Sql database vs code open kri ne sirUrl change krvani 
+4. Or ek bar firse try krna firse change ese 3 bar change krvana
+5. Database and fold name same its
